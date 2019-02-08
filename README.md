@@ -1,7 +1,7 @@
 # RecyclingMachine
 Python Recycling Machine Based on OOPS Concepts.
 
-#Assignment Overview
+# Assignment Overview
 
 You are tasked with creating a text-based program for simulating a Recycling Machine using the Python 3 programming language. 
 The assignment is broken up into four main components: 
