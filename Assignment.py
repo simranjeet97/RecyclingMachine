@@ -1,3 +1,7 @@
+#Simranjeet Singh - simranjeetsingh1497@gmail.com
+#Insta - Itsexceptional
+#Linkedin - Simranjeet Singh
+
 class RecycleMachine:
     def __init__(self,item,option,bal,can,bott, paper,n_item,money):
         self.item = item
